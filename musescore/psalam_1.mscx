@@ -56,6 +56,31 @@
         <val id="8">0.5</val>
         <val id="9">0.33</val>
         </Zita1>
+      <master>
+        <val id="0">Zita1</val>
+        <val id="1">NoEffect</val>
+        <val id="2">0.1</val>
+        <val id="3">440</val>
+        <val id="4">1</val>
+        <val id="5">1</val>
+        </master>
+      <Fluid>
+        <val id="0">MuseScore_General.sf3</val>
+        </Fluid>
+      <Zerberus>
+        </Zerberus>
+      <Zita1>
+        <val id="0">0.25</val>
+        <val id="1">0.462756</val>
+        <val id="2">0.161809</val>
+        <val id="3">0.333333</val>
+        <val id="4">0.25</val>
+        <val id="5">0.335245</val>
+        <val id="6">0.5</val>
+        <val id="7">0.664755</val>
+        <val id="8">0.5</val>
+        <val id="9">0.33</val>
+        </Zita1>
       </Synthesizer>
     <Division>480</Division>
     <Style>
@@ -1986,6 +2011,7 @@
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
+              <ticks_f>0/8</ticks_f>
               <text>znat
 </text>
               </Lyrics>
@@ -2011,7 +2037,7 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text>je</text>
+              <text>put</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -2026,7 +2052,7 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text>put</text>
+              <text>je</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -4356,6 +4382,7 @@
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
+              <ticks_f>0/8</ticks_f>
               <text>znat
 </text>
               </Lyrics>
@@ -4378,7 +4405,7 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text>je</text>
+              <text>put</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -4393,7 +4420,7 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text>put</text>
+              <text>je</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -6681,6 +6708,7 @@
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
+              <ticks_f>0/8</ticks_f>
               <text>znat
 </text>
               </Lyrics>
@@ -6703,7 +6731,7 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text>je</text>
+              <text>put</text>
               </Lyrics>
             <Note>
               <pitch>57</pitch>
@@ -6718,7 +6746,7 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text>put</text>
+              <text>je</text>
               </Lyrics>
             <Note>
               <pitch>55</pitch>
@@ -9002,6 +9030,7 @@
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
+              <ticks_f>0/8</ticks_f>
               <text>znat
 </text>
               </Lyrics>
@@ -9024,7 +9053,7 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text>je</text>
+              <text>put</text>
               </Lyrics>
             <Note>
               <pitch>57</pitch>
@@ -9039,7 +9068,7 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text>put</text>
+              <text>je</text>
               </Lyrics>
             <Note>
               <pitch>55</pitch>
