@@ -1,0 +1,3 @@
+- change lyrics in choir to sopran
+            \new Lyrics \lyricsto "sopran" { \lyricTwoZero }
+
